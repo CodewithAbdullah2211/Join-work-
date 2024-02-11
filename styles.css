@@ -1,0 +1,28 @@
+  html {
+  scroll-behavior: smooth;
+}
+
+.top-name{
+  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  background-color: #222326;
+  width:105%;
+  height: 6rem;
+  position: relative;
+  top:-1rem;
+  left:-0.7rem;
+}
+.Abhishek{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: arial;
+  position: relative;
+  top:-6.4rem;
+  opacity: 0.9;
+  
+  
+}
+.cz{
+  text-decoration: none;
+  color:lime;
+  opacity: 0.9;
+}
